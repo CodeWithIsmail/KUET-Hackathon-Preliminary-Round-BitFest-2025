@@ -2,7 +2,7 @@
 
 ## API Documentation
 
-- Route: /api/ingredients
+### Route: /api/ingredients
 -  Method: POST
 -  Sample Payload:
 
