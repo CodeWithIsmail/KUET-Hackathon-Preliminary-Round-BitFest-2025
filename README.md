@@ -3,8 +3,8 @@
 ## API Documentation
 
 - Route: /api/ingredients
-  Method: POST
-  Sample Payload:
+-  Method: POST
+-  Sample Payload:
 
 ```json
 [
